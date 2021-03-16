@@ -1,4 +1,8 @@
-### Hi there 👋
+## Ana
+#### Hell-oh 🤓
+
+#### Call me, beep me, if ya wanna reach me
+[<img align="left" width="32" height="32" alt="Gmail logo" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png" />](mailto:ania.helena.mod@gmail.com?subject=Hello%2C%20I'm%20from%20GitHub)
 
 <!--
 **ana-mod/ana-mod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
